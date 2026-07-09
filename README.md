@@ -1,4 +1,6 @@
-eatures
+features
+
+
 User registration and login
 Donate books with optional cover images
 Search books by title, author, keyword, or category
